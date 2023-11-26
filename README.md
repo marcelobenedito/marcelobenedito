@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcelobenedito/dad144186104239753c11fef78602a06/raw/7a857ead8a0df6b85d280ba6782282c532ddc55c/github_banner.svg" />
 
-<h1 align="left">Dear <img src="https://gist.githubusercontent.com/marcelobenedito/6aeae650320cad124bdb864fd82be783/raw/134c0efdb5aa5b14b1110613e793ad5d54b44be9/Hi.gif" width="30px">, I'm Marcelo Benedito</h1>
+<h1 align="left">Hi there <img src="https://gist.githubusercontent.com/marcelobenedito/6aeae650320cad124bdb864fd82be783/raw/134c0efdb5aa5b14b1110613e793ad5d54b44be9/Hi.gif" width="30px">, I'm Marcelo Benedito</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelobenedito&color=yellow" alt="Profile views" /> </p>
 
