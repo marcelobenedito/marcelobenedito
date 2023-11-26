@@ -53,6 +53,8 @@
 
 <br><br>
 
+![Snake animation](https://github.com/marcelobenedito/marcelobenedito/blob/output/github-contribution-grid-snake.svg)
+
 ## 📞 Contact
 
 <p align="left" style="background:yellow">
