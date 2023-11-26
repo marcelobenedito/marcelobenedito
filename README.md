@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcelobenedito/dad144186104239753c11fef78602a06/raw/344579e9a6fbc299ed5593918bc7e9f184409a20/github_banner.svg" />
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcelobenedito/dad144186104239753c11fef78602a06/raw/7a857ead8a0df6b85d280ba6782282c532ddc55c/github_banner.svg" />
 
 <h1 align="left">Dear <img src="https://gist.githubusercontent.com/marcelobenedito/6aeae650320cad124bdb864fd82be783/raw/134c0efdb5aa5b14b1110613e793ad5d54b44be9/Hi.gif" width="30px">, I'm Marcelo Benedito</h1>
 
@@ -18,19 +18,31 @@
 
 ## 🛠 &nbsp;Stack
 
-<p align="center">
+### Main
+
+<p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,js,html,css,postgres,mysql,mongodb,docker" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,spring,java,postgres,mysql" />
   </a>
 </p>
 
-<p align="center">
+### Secondary
+
+<p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,py,react,tensorflow,jenkins" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mongodb" />
   </a>
 </p>
 
-<br><br>
+### Complementary
+
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,py,react,nodejs,tensorflow,docker,jenkins" />
+  </a>
+</p>
+
+<br>
 
 ## ⚙️ &nbsp;Analytics
 
