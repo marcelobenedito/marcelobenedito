@@ -53,11 +53,13 @@
 
 <br><br>
 
+<!-- Snake animation is not working well =/
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcelobenedito/marcelobenedito/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcelobenedito/marcelobenedito/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcelobenedito/marcelobenedito/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 ## 📞 Contact
 
